@@ -1,1 +1,1 @@
-# Simple Electron-based cahtbot app 
+# Simple Electron-based chatbot app 
