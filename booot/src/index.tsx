@@ -16,7 +16,7 @@ export function App() {
   const [isSettingsOpen, setIsSettingsOpen] = useState<boolean>(false)
 
   return (
-    <main class="bg-main">
+    <main class="bg-main text-white">
       <div class={`w-full flex flex-row ${isSettingsOpen ? "gap-[15px]" : ""}`}>
         <Navbar
           isSettingsOpen={isSettingsOpen}
